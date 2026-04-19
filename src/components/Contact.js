@@ -2,11 +2,22 @@ import React from "react";
 
 function Contact() {
   return (
-    <section className="contact">
-      <h2>Contact Me</h2>
-      <p>Email: yourname@gmail.com</p>
-      <p>LinkedIn: linkedin.com/in/yourprofile</p>
-      <p>GitHub: github.com/yourusername</p>
+    <section id="contact">
+      <h2>Contact</h2>
+
+      <div className="contact-links">
+        <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noreferrer">
+          LinkedIn
+        </a>
+
+        <a href="https://github.com/yourusername" target="_blank" rel="noreferrer">
+          GitHub
+        </a>
+
+        <a href="mailto:yourmail@gmail.com">
+          Email
+        </a>
+      </div>
     </section>
   );
 }
