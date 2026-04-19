@@ -10,6 +10,7 @@ function Navbar() {
         <li><a href="#skills">Skills</a></li>
         <li><a href="#Projects">Projects</a></li>
         <li><a href="#contact">Contact</a></li>
+        <li><a href="#experience">Experience</a></li>
       </ul>
     </nav>
   );

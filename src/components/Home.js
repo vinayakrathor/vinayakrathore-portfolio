@@ -8,12 +8,13 @@ function Home() {
       {/* Left Side */}
       <div className="home-text">
         <h1>
-          Hi, I'm <span className="highlight">Your Name</span>
+          Hi, I'm <span className="highlight">Vinayak Rathore</span>
         </h1>
 
         <p>
-          B.Tech Graduate (2025) | Frontend Developer  
-          Passionate about building modern, responsive and user-friendly web applications using React.
+          B.Tech Computer Science (Data Science) Graduate (2025).
+Experienced in Python, Data Analysis, and Machine Learning projects.
+Currently expanding skills in React and Full Stack Development.
         </p>
 
         <div className="hero-buttons">
