@@ -7,7 +7,7 @@ function Experience() {
 
       <div className="glass-card">
         <h3>Developer – GenkaiX</h3>
-        <p><strong>Sep 2025 – Mar 2026</strong></p>
+        <p><strong>Sep 2025 – Apr 2026</strong></p>
 
         <ul>
           <li>Worked on Python backend development and automation scripts.</li>
