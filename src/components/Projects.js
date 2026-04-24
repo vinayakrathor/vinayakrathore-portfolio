@@ -7,7 +7,7 @@ function Projects() {
 
       {/* Project 1 */}
       <div className="glass-card project-card">
-        <h3>Full Stack Travel Booking Website</h3>
+        <h3>Travel Booking Website UI</h3>
         <p>
           Developed a responsive travel booking website using HTML, CSS,
           JavaScript, PHP, and MySQL. Implemented server-side logic,
