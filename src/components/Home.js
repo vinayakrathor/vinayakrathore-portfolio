@@ -12,9 +12,7 @@ function Home() {
         </h1>
 
         <p>
-          B.Tech Computer Science (Data Science) Graduate (2025).
-Experienced in Python, Data Analysis, and Machine Learning projects.
-Currently expanding skills in React and Full Stack Development.
+         B.Tech Computer Science (Data Science) Graduate (2025) with hands-on experience in Python, Data Analysis, and Machine Learning projects. Currently expanding skills in React and Full Stack Development to build scalable and modern web applications.
         </p>
 
         <div className="hero-buttons">

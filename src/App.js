@@ -18,6 +18,9 @@ function App() {
       <Experience />
       <Projects />
       <Contact />
+      <footer className="footer">
+  © 2026 Vinayak Rathore | Built with React
+</footer>
     </div>
   );
 }
